@@ -33,6 +33,7 @@
 | React | `@fos-icons/react` | [packages/react](https://github.com/fos-icons/fos-icons/tree/main/packages/react) |
 | Vue | `@fos-icons/vue` | [packages/vue](https://github.com/fos-icons/fos-icons/tree/main/packages/vue) |
 | Svelte | `@fos-icons/svelte` | [packages/svelte](https://github.com/fos-icons/fos-icons/tree/main/packages/svelte) |
+| SolidJS | `@fos-icons/solid` | [packages/solid](https://github.com/fos-icons/fos-icons/tree/main/packages/solid) |
 | Angular | `@fos-icons/angular` | [packages/angular](https://github.com/fos-icons/fos-icons/tree/main/packages/angular) |
 
 ## Plugins
